@@ -1,0 +1,6 @@
+[submodule "medhed-frontend"]
+	path = medhed-frontend
+	url = https://github.com/jespadas/medhed-frontend.git
+[submodule "medhed-backend"]
+	path = medhed-backend
+	url = https://github.com/jespadas/medhed-backend.git
